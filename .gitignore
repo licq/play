@@ -1,0 +1,4 @@
+data/
+app.log
+.python-version
+__pycache__/
